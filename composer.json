@@ -1,0 +1,21 @@
+{
+    "name": "juanshu/network",
+    "description": "http-tool: debug, api, curl",
+    "keywords": ["juanshu", "network", "http"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xuyuan",
+            "email": "1184411413@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },  
+    "autoload": {
+        "psr-4": {
+            "juanshu\\network\\": ""
+        }
+    }
+}
